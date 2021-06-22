@@ -6,4 +6,4 @@ Windows Subsystem for Linux (WSL) — слой совместимости для
 
 Позволяет полноценно работать с ROS без необходимости установки дистрибутива Ubuntu
 
-[Установка и настройка WSL2 на Windows](https://github.com/Promobot-education/WSL2/blob/main/docs/start.md)
+[Установка и настройка WSL2 на Windows](https://github.com/shabu-rov/WSL2/wiki)
